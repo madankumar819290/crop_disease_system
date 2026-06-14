@@ -34,4 +34,4 @@ crop-disease-system/
 └── requirements.txt
 
 ## Author
-Your Name — B.Tech CS (AI), GL Bajaj Institutepip 
+Madan Kumar — B.Tech CS (AI), GL Bajaj Institute of Technology & Management, Greater Noida
